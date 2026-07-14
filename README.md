@@ -1,8 +1,6 @@
 # Image-Converter-Pro
-We are now at 🚀 v0.1.0 Foundation
-# SpaceBridge Image Converter Pro
-
 A professional PySide6 desktop image converter for Windows, Linux and macOS.
+We are now at 🚀 v0.1.0 Foundation
 
 ## Features
 
